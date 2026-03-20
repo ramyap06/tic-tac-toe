@@ -6,7 +6,7 @@
 
 ## Next Steps
 1. translating Vanilla Javascript to React + Typescript
-2. making a one player version of this game
+2. making a one player version of this game against the computer
 
 ## What I Intend To Learn
 1. Typescript
